@@ -14,11 +14,11 @@ This research was developed as a final-year undergraduate project at the Sri Lan
 
 ### Monitoring Dashboard
 
-🔗 https://your-monitoring-dashboard.vercel.app
+🔗 https://beehive-d.vercel.app/
 
 ### Research Information Website
 
-🔗 https://your-research-website.vercel.app
+🔗 https://byte-bees-website.vercel.app/
 
 ### You can see my works (codes) using this like through my other github account
 
